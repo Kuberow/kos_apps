@@ -4,5 +4,11 @@
     "author": "me",
     "url": "https://example.com",
     "description": "robot thingies"
+  },
+  {
+    "name": "hi",
+    "author": "lol",
+    "url": "https://example.com",
+    "description": "notin"
   }
 ]
